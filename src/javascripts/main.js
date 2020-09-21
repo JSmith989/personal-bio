@@ -1,8 +1,10 @@
 import '../styles/main.scss';
+import projectCards from './components/projectCards';
+import intro from './components/intro';
 
 const init = () => {
-  $('#app').html('<h1>personal site</h1>');
-  console.warn('personal bio site');
+  intro.myIntro();
+  projectCards.displayProjects();
 };
 
 init();

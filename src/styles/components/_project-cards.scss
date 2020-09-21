@@ -1,0 +1,26 @@
+.project-cards {
+    border: 2px #000000 solid;
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    background-color: #5f5d5d;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#app {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 200px;
+}
+
+.project-photo {
+    width: 280px;
+    padding: 15px;
+  }
+
+.photo-container {
+    display: flex;
+    justify-content: center;
+}
