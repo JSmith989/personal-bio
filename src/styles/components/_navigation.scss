@@ -1,2 +1,24 @@
 
+.my-name {
+    position: absolute;
+    top: 30px;
+    left: -1rem;
+    width: 100%;
+    font-size: 50px;
+    letter-spacing: 13px;
+    color: rgb(47, 76, 110);
+    text-shadow: 1.5px 1px white;
+  }
+.my-tech {
+    position: absolute;
+    top: 130px;
+    left: 28rem;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+  }
 
+  .fa-color {
+      color: rgb(131, 107, 71);
+  }

@@ -4,7 +4,7 @@ const createProjectCards = (item) => {
   const domString = `
      <div class="project-cards">
         <h2 class="title-project">${item.title}</h2>
-        <div class="container">
+        <div class="photo-container">
             <img src= ${item.screenshot} alt="screenshot" class="project-photo"/>
         </div>    
             <p> ${item.description}</p>
