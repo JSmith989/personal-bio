@@ -1,7 +1,8 @@
 import '../styles/main.scss';
+import projectCards from './components/projectCards';
 
 const init = () => {
-  console.warn('personal bio site');
+  projectCards.displayProjects();
 };
 
 init();
