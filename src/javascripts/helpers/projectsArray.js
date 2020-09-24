@@ -2,7 +2,7 @@ const projects = [
   {
     title: 'Bloomers',
     screenshot: '../images/bloomers.png',
-    description: 'I know what you are thinking ands yes, there is FINALLY a website where you can buy your favorite pants.',
+    description: 'I know what you are thinking and yes, there is FINALLY a website where you can buy your favorite pants.',
     technologiesUsed:
       'HTML, CSS, Vanilla JavaScript, Version Control with Github',
     available: true,
