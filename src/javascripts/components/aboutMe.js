@@ -1,17 +1,9 @@
 const myStory = () => {
   const domString = `
-    <p>
-        <button id="my-story">My Story</button>
-        <button id="social-media">Social Media</button>
-    </p>
-    <div class="card" style="width: 18rem;">
+    <div id="about-text" class="card" style="width: 19rem;">
     <div class="card-body">
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    </div>
-  </div>
-  <div class="card" style="width: 18rem;">
-    <div class="card-body">
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <p class="card-text">Born and raised in Michigan. Now currently in Tennessee with my beautiful wife and son. 
+      Creativity has always been a big part of my personality. Whether I'm writing music or code, I love the process of planning, designing, and executing projects.  </p>
     </div>
   </div>
   `;
