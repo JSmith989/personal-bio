@@ -1,0 +1,34 @@
+{
+    "project1": {
+        "title": "Dino Kennel",
+        "screenshot": "../images/dino-kennel.png",
+        "description": "Dinos... I love them, you love them, but lets face it sometimes we need to take a vacation from them. Store them here.",
+        "technologiesUsed":
+          "HTML, CSS, Vanilla JavaScript, Version Control with Github, Sass, JQuery",
+        "available": true,
+        "url": "https://dino-place.netlify.app/",
+        "githubUrl": "https://github.com/JSmith989/dino-kennel"
+      },
+      "project2": {
+        "title": "Bloomers",
+        "screenshot": "../images/bloomers.png",
+        "description": "I know what you are thinking and yes, there is FINALLY a website where you can buy your favorite pants.",
+        "technologiesUsed":
+          "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+        "available": true,
+        "url": "https://bloomers.netlify.app/",
+        "githubUrl": "https://github.com/JSmith989/bloomers"
+      },
+      "project3": {
+        "title": "LOTR Chat",
+        "screenshot": "../images/lotr-chatty.png",
+        "description":
+          "Have you found yourself wondering where you can talk about Lord of the Rings with other people? Look no further!",
+        "technologiesUsed":
+          "HTML, CSS, Vanilla JavaScript, Version Control with Github, Sass, JQuery",
+        "available": true,
+        "url": "https://lotr-chatty.netlify.app/",
+        "githubUrl":
+          "https://github.com/nss-evening-cohort-13/chatty-delta/tree/master"
+      }
+}
