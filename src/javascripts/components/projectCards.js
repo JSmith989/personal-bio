@@ -1,5 +1,3 @@
-import projectsArray from '../helpers/projectsArray';
-
 const createProjectCards = (item) => {
   const domString = `
      <div class="project-cards">
@@ -15,11 +13,4 @@ const createProjectCards = (item) => {
   return domString;
 };
 
-const displayProjects = () => {
-  const projects = projectsArray.getProjects();
-  projects.forEach((item) => {
-    $('#app').append(createProjectCards(item));
-  });
-};
-
-export default { displayProjects };
+export default { createProjectCards };
