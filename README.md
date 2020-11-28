@@ -1,5 +1,5 @@
 # Personal Bio
-![bio-pic](./images/personal-bio.png)
+![bio-pic](https://user-images.githubusercontent.com/67443077/100527725-afdaaa80-319a-11eb-8a78-b9ccd1ebf89e.png)
 
 
 ## Deploy Status
