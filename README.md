@@ -3,7 +3,7 @@
 
 
 ## Deploy Status
-deployed via firebase https://personal-bio-b8b22.web.app/
+jordan-a-smith.netlify.app 
 
 
 ## About This Project
