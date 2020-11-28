@@ -1,13 +1,24 @@
 const myStory = () => {
   const domString = `
-    <div id="about-text" class="card" style="width: 19rem;">
-    <div class="card-body">
-      <p class="card-text">Born and raised in Michigan. Now currently in Tennessee with my beautiful wife and son. 
-      Creativity has always been a big part of my personality. Whether I'm writing music or code, I love the process of planning, designing, and executing projects.  </p>
+  <div class="flip-container">
+  <div class="flipper">
+    <div class="front portrait">
+    <img class="myself" src="../images/batmanBaby.png" alt="me" />
     </div>
-  </div>
+    <div class="back">
+      <p class="p-2 mt-1">
+      Born and raised in Michigan. Now currently in Nashville, Tennessee with my beautiful wife and son. I became interested in development because I love the puzzle like aspect of it.
+      Creativity has always been a big part of my personality. Whether I'm writing music or code, I love the process of planning, designing, and executing projects. 
+      Along with creativity, my determination to fix an issue is what's going to help me succeed. </p>
+      </div>
+      </div>
+      </div>
   `;
-  $('#about-me').html(domString);
+  $('body').on('click', '.flip-container .flipper', (e) => {
+    e.stopImmediatePropagation();
+    $(this).css('transform, rotateY(180deg)');
+  });
+  $('#aboutMe').html(domString);
 };
 
 export default { myStory };
