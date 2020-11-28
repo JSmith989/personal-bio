@@ -1,7 +1,7 @@
 {
   "project1": {
     "title": "React Pinterest",
-    "screenshot": "../images/reactPinterest.png",
+    "screenshot": "https://user-images.githubusercontent.com/67443077/100527518-cbdd4c80-3198-11eb-9c10-01c2debc6bd1.png",
     "description": "This Pinterest project was an exercise to challenge our newly learned react skills",
     "technologiesUsed": "React, HTML, CSS, Vanilla JavaScript, Version Control",
     "url": "https://notpinterest.netlify.app/",
@@ -9,7 +9,7 @@
   },
   "project2": {
     "title": "Shark Attack",
-    "screenshot": "../images/shark.png",
+    "screenshot": "https://user-images.githubusercontent.com/67443077/100527515-c41da800-3198-11eb-9099-b76ed1443ecc.png",
     "description": "My class fell into the water and you control who dies via shark by the touch of a button.",
     "technologiesUsed": "HTML, React, CSS, Vanilla JavaScript, Version Control, Sass ",
     "available": true,
@@ -18,7 +18,7 @@
   },
   "project3": {
     "title": "Dino Kennel",
-    "screenshot": "../images/dino-kennel.png",
+    "screenshot": "https://user-images.githubusercontent.com/67443077/100527513-bff18a80-3198-11eb-8caf-3111d842163f.png",
     "description": "Dinos... I love them, you love them, but lets face it sometimes we need to take a vacation from them. Store them here.",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, Sass, JQuery",
     "available": true,
@@ -27,7 +27,7 @@
   },
   "project4": {
     "title": "Bloomers",
-    "screenshot": "../images/bloomers.png",
+    "screenshot": "https://user-images.githubusercontent.com/67443077/100527505-ab14f700-3198-11eb-8243-d45919535f62.png",
     "description": "I know what you are thinking and yes, there is FINALLY a website where you can buy your favorite pants.",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
     "available": true,
@@ -36,7 +36,7 @@
   },
   "project5": {
     "title": "LOTR Chat",
-    "screenshot": "../images/lotr-chatty.png",
+    "screenshot": "https://user-images.githubusercontent.com/67443077/100527499-a2242580-3198-11eb-8578-0125d632ded0.png",
     "description": "Have you found yourself wondering where you can talk about Lord of the Rings with other people? Look no further!",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github, Sass, JQuery",
     "available": true,
@@ -45,7 +45,7 @@
   },
   "project6": {
     "title": "Bear Watcher",
-    "screenshot": "../images/bear-watch.png",
+    "screenshot": "https://user-images.githubusercontent.com/67443077/100527490-92a4dc80-3198-11eb-89cb-cd00266fbda5.png",
     "description": "Keep track of your bears with this easy to use bear watching site.",
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
     "url": "https://bear-track.netlify.app/",
