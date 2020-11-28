@@ -3,7 +3,7 @@
 
 
 ## Deploy Status
-jordan-a-smith.netlify.app 
+https://jordan-a-smith.netlify.app/
 
 
 ## About This Project
