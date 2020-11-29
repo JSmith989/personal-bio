@@ -1,21 +1,12 @@
 const myIntro = () => {
   const domString = `
-  <div class="my-name"> Jordan Smith </div>
-  <div class="my-title"> Full Stack Developer </div>
-  <div class="my-tech">
-  <i class="fab fa-html5 fa-2x fa-color-2 p-3"></i>
-  <i class="fab fa-js-square fa-2x fa-color-2 p-3"></i>
-  <i class="fab fa-bootstrap fa-2x fa-color-2 p-3"></i>
-  <i class="fab fa-sass fa-2x fa-color-2 p-3"></i>
-  <i class="fab fa-github fa-2x fa-color-2 p-3"></i>
-  <i class="fab fa-css3-alt fa-2x fa-color-2 p-3"></i>
-  <i class="fab fa-node-js fa-2x fa-color-2 p-3"></i>
-  <i class="fab fa-git fa-2x fa-color-2 p-3"></i>
-  <i class="fab fa-npm fa-2x fa-color-2 p-3"></i>
-  <i class="fab fa-react fa-2x fa-color-2 p-3"></i>
-
-
-  </div>
+ 
+  <div class="p-2 mt-1">
+      <p class="back p-2 mt-1 border border-white">
+      Born and raised in Michigan. Now currently in Nashville, Tennessee with my beautiful wife and son. I became interested in development because I love the puzzle like aspect of it.
+      Creativity has always been a big part of my personality. Whether I'm writing music or code, I love the process of planning, designing, and executing projects. 
+      Along with creativity, my determination to fix an issue is what's going to help me succeed. </p>
+    </div>
   `;
   $('#intro').html(domString);
 };
